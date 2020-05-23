@@ -10,11 +10,11 @@ permalink: /publications/
 
 
   * <u>Juho Piironen</u>, Markus Paasiniemi and Aki Vehtari (2020). **Projective Inference in High-dimensional Problems: Prediction and Feature Selection**. _Electronic Journal of Statistics_, 14(1): 2155-2197.
-  [Online](https://projecteuclid.org/euclid.ejs/1589335310")
+  [Online](https://projecteuclid.org/euclid.ejs/1589335310)
   [Code](https://cran.r-project.org/web/packages/projpred/index.html)
   
   * Topi Paananen, <u>Juho Piironen</u>, Michael Riis Andersen and Aki Vehtari (2019). **Variable selection for Gaussian processes via sensitivity analysis of the posterior predictive distribution.** In _Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR 89: 1743-1752.
-  [Online](http://proceedings.mlr.press/v89/paananen19a.html")
+  [Online](http://proceedings.mlr.press/v89/paananen19a.html)
 
   * <u>Juho Piironen</u> and Aki Vehtari (2018). **Iterative Supervised Principal Components**. In
   _Proceedings of the 21st International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR 84: 106-114.
@@ -42,7 +42,7 @@ permalink: /publications/
 ## Submitted articles
 
   * Federico Pavone, <u>Juho Piironen</u>, Paul-Christian Bürkner, and Aki Vehtari (2020). **Using reference models in variable selection**.
-  [Preprint](https://arxiv.org/abs/2004.13118")
+  [Preprint](https://arxiv.org/abs/2004.13118)
 
   * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2019). **Implicitly Adaptive Importance Sampling**.
   [Preprint](https://arxiv.org/abs/1906.08850)
