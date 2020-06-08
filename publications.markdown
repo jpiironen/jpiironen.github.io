@@ -16,6 +16,9 @@ permalink: /publications/
   * Topi Paananen, <u>Juho Piironen</u>, Michael Riis Andersen and Aki Vehtari (2019). **Variable selection for Gaussian processes via sensitivity analysis of the posterior predictive distribution.** In _Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR 89: 1743-1752.
   [Online](http://proceedings.mlr.press/v89/paananen19a.html)
 
+  * Simon Holmbacka, Jarno Niemelä, Henri Karikallio, Karri Sunila, Ilkka Raiskinen, Eero Siivola, <u>Juho Piironen</u>, Tuomas Sivula (2018). **Alarm Prediction in LTE Networks**. In _IEEE 25th International Conference on Telecommunications (ICT)_.
+  [Online](https://ieeexplore.ieee.org/document/8464882)
+
   * <u>Juho Piironen</u> and Aki Vehtari (2018). **Iterative Supervised Principal Components**. In
   _Proceedings of the 21st International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR 84: 106-114.
   [Online](http://proceedings.mlr.press/v84/piironen18a.html)
