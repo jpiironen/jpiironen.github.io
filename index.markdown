@@ -4,7 +4,7 @@
 
 [//]: # (originally layout: home)
 layout: page
-
+permalink: /
 
 ---
 
