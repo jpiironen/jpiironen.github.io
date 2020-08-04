@@ -8,6 +8,8 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
+  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** In _2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) Journal Track_, accepted for publication.
+  [Preprint](https://arxiv.org/abs/1910.09358)
 
   * <u>Juho Piironen</u>, Markus Paasiniemi and Aki Vehtari (2020). **Projective Inference in High-dimensional Problems: Prediction and Feature Selection**. _Electronic Journal of Statistics_, 14(1): 2155-2197.
   [Online](https://projecteuclid.org/euclid.ejs/1589335310)
@@ -49,9 +51,6 @@ permalink: /publications/
 
   * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2019). **Implicitly Adaptive Importance Sampling**.
   [Preprint](https://arxiv.org/abs/1906.08850)
-
-  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2019). **Making Bayesian predictive models interpretable: A decision theoretic approach.** 
-  [Preprint](https://arxiv.org/abs/1910.09358)
   
   * Donald R. Williams, <u>Juho Piironen</u>, Aki Vehtari and Philippe Rast (2018). **Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection**.
   [Preprint](https://arxiv.org/abs/1801.05725)
