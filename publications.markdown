@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Peer-reviewed articles
 
-  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** In _2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) Journal Track_, accepted for publication.
+  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** In _Machine Learning_, accepted for publication.
   [Preprint](https://arxiv.org/abs/1910.09358)
 
   * <u>Juho Piironen</u>, Markus Paasiniemi and Aki Vehtari (2020). **Projective Inference in High-dimensional Problems: Prediction and Feature Selection**. _Electronic Journal of Statistics_, 14(1): 2155-2197.
