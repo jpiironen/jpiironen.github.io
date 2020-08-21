@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 
+Citations to my work can be found via Google Scholar [here](https://scholar.google.fi/citations?user=7oGbL64AAAAJ&hl=fi).
 
 ## Peer-reviewed articles
 
