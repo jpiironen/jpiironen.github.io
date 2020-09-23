@@ -7,7 +7,7 @@ permalink: /software/
 
 R-packages:
 
-  * **projpred** Projective feature selection for generalized linear models, compatible with _rstanarm_. 
+  * **projpred** Projective feature selection for generalized linear models, compatible with _rstanarm_ and _brms_. 
   [Codes](https://github.com/stan-dev/projpred)
   [Quickstart](https://htmlpreview.github.io/?https://github.com/stan-dev/projpred/blob/master/vignettes/quickstart.html)
 
