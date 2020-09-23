@@ -9,7 +9,11 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 
 ## Peer-reviewed articles
 
-  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** In _Machine Learning_, accepted for publication.
+  * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2020). **Implicitly Adaptive Importance Sampling**. _Statistics and Computing_, accepted for publication.
+  [Preprint](https://arxiv.org/abs/1906.08850) 
+
+  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** _Machine Learning_, Special Issue of the ECML PKDD 2020 Journal Track.
+  [Online](https://doi.org/10.1007/s10994-020-05901-8)
   [Preprint](https://arxiv.org/abs/1910.09358)
 
   * <u>Juho Piironen</u>, Markus Paasiniemi and Aki Vehtari (2020). **Projective Inference in High-dimensional Problems: Prediction and Feature Selection**. _Electronic Journal of Statistics_, 14(1): 2155-2197.
@@ -50,9 +54,7 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
   * Federico Pavone, <u>Juho Piironen</u>, Paul-Christian Bürkner, and Aki Vehtari (2020). **Using reference models in variable selection**.
   [Preprint](https://arxiv.org/abs/2004.13118)
 
-  * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2019). **Implicitly Adaptive Importance Sampling**.
-  [Preprint](https://arxiv.org/abs/1906.08850)
-  
+ 
   * Donald R. Williams, <u>Juho Piironen</u>, Aki Vehtari and Philippe Rast (2018). **Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection**.
   [Preprint](https://arxiv.org/abs/1801.05725)
   
