@@ -8,7 +8,7 @@ permalink: /
 
 ---
 
-<img src="pics/pic1.jpeg" alt="Juho Piironen" width="250" align="left" />
+<img src="pics/pic1.jpeg" alt="Juho Piironen" width="250"  />
 
 
 I currently work as a senior scientist for the [Top Data Science company](https://topdatascience.com/). Before that I used to work as a machine learning researcher at the [Curious AI company](https://thecuriousaicompany.com/). I am also a co-founder of [Enne Analytics](https://www.enneanalytics.com/).
