@@ -78,6 +78,8 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 [Online](http://urn.fi/URN:ISBN:978-952-60-8539-5)
 [Lectio praecursoria (in Finnish)](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=988fbb98-3d3b-494b-a69e-aa5e00797fba)
 
-The thesis was awarded: <i>Among the top 10% of doctoral dissertations in Aalto University School of Science in 2019, judged by their academic quality, originality, and impact.</i> 
+&#11088; The thesis won two awards:
 
+<i>Best doctoral thesis of year 2019 in the field of computer science, awarded by the Finnish Society for Computer Science Research (Tietotekniikan tutkimussäätiö)</i>.
 
+<i>Among the top 10% of doctoral dissertations in Aalto University School of Science in 2019, judged by their academic quality, originality, and impact.</i>
