@@ -80,6 +80,6 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 
 &#11088; The thesis won two awards:
 
-<i>Best doctoral thesis of year 2019 in the field of computer science, awarded by the Finnish Society for Computer Science Research (Tietotekniikan tutkimussäätiö)</i>.
+<i>Best doctoral thesis of year 2019 in the field of computer science, awarded by the Finnish Society for Computer Science (Tietotekniikan tutkimussäätiö)</i>.
 
 <i>Among the top 10% of doctoral dissertations in Aalto University School of Science in 2019, judged by their academic quality, originality, and impact.</i>
