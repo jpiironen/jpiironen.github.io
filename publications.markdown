@@ -10,6 +10,7 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 ## Peer-reviewed articles
 
   * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2020). **Implicitly Adaptive Importance Sampling**. _Statistics and Computing_, accepted for publication.
+  [Online](https://doi.org/10.1007/s11222-020-09982-2)
   [Preprint](https://arxiv.org/abs/1906.08850)
 
   * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** _Machine Learning_, Special Issue of the ECML PKDD 2020 Journal Track.
