@@ -56,12 +56,12 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
   [Preprint](https://arxiv.org/abs/2004.13118)
 
 
-  * Donald R. Williams, <u>Juho Piironen</u>, Aki Vehtari and Philippe Rast (2018). **Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection**.
-  [Preprint](https://arxiv.org/abs/1801.05725)
-
 
 
 ## Technical reports and other scientific articles
+
+  * Donald R. Williams, <u>Juho Piironen</u>, Aki Vehtari and Philippe Rast (2018). **Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection**.
+  [Oneline](https://arxiv.org/abs/1801.05725)
 
   * <u>Juho Piironen</u>, Michael Betancourt, Daniel Simpson and Aki Vehtari (2017). Discussion to **Uncertainty Quantification for the Horseshoe** by St&eacute;phanie van der Pas, Botond Szab&oacute; and Aad van der Vaart. _Bayesian Analysis_.
   [Online](https://projecteuclid.org/euclid.ba/1504231319)
