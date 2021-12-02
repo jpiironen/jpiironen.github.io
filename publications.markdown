@@ -9,11 +9,13 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 
 ## Peer-reviewed articles
 
-  * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2020). **Implicitly Adaptive Importance Sampling**. _Statistics and Computing_, accepted for publication.
+  * Antti Piironen, <u>Juho Piironen</u> and Toni Laaksonen (2021). **Predicting spatio-temporal distributions of migratory populations using Gaussian process modelling**. _Journal of Applied Ecology_, accepted for publication. (First two authors contributed equally)
+
+  * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2020). **Implicitly Adaptive Importance Sampling**. _Statistics and Computing_, 31:16.
   [Online](https://doi.org/10.1007/s11222-020-09982-2)
   [Preprint](https://arxiv.org/abs/1906.08850)
 
-  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** _Machine Learning_, Special Issue of the ECML PKDD 2020 Journal Track.
+  * Homayun Afrabandpey, Tomi Peltola, <u>Juho Piironen</u>, Aki Vehtari, and Samuel Kaski (2020). **A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.** _Machine Learning_, 109:1855-1876. Special Issue of the ECML PKDD 2020 Journal Track.
   [Online](https://doi.org/10.1007/s10994-020-05901-8)
   [Preprint](https://arxiv.org/abs/1910.09358)
 
@@ -61,7 +63,7 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 ## Technical reports and other scientific articles
 
   * Donald R. Williams, <u>Juho Piironen</u>, Aki Vehtari and Philippe Rast (2018). **Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection**.
-  [Oneline](https://arxiv.org/abs/1801.05725)
+  [Online](https://arxiv.org/abs/1801.05725)
 
   * <u>Juho Piironen</u>, Michael Betancourt, Daniel Simpson and Aki Vehtari (2017). Discussion to **Uncertainty Quantification for the Horseshoe** by St&eacute;phanie van der Pas, Botond Szab&oacute; and Aad van der Vaart. _Bayesian Analysis_.
   [Online](https://projecteuclid.org/euclid.ba/1504231319)
