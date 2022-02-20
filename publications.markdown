@@ -9,7 +9,8 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 
 ## Peer-reviewed articles
 
-  * Antti Piironen, <u>Juho Piironen</u> and Toni Laaksonen (2021). **Predicting spatio-temporal distributions of migratory populations using Gaussian process modelling**. _Journal of Applied Ecology_, accepted for publication. (First two authors contributed equally)
+  * Antti Piironen, <u>Juho Piironen</u> and Toni Laaksonen (2022). **Predicting spatio-temporal distributions of migratory populations using Gaussian process modelling**. _Journal of Applied Ecology_, 00: 1-11. (First two authors contributed equally)
+  [Online](https://doi.org/10.1111/1365-2664.14127)
 
   * Topi Paananen, <u>Juho Piironen</u>, Paul Bürkner and Aki Vehtari (2020). **Implicitly Adaptive Importance Sampling**. _Statistics and Computing_, 31:16.
   [Online](https://doi.org/10.1007/s11222-020-09982-2)
