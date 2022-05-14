@@ -9,6 +9,10 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
 
 ## Peer-reviewed articles
 
+  * Federico Pavone, <u>Juho Piironen</u>, Paul-Christian Bürkner and Aki Vehtari (2020). **Using reference models in variable selection**. _Computational Statistics_
+  [Online](https://doi.org/10.1007/s00180-022-01231-6)
+  [Preprint](https://arxiv.org/abs/2004.13118)
+
   * Antti Piironen, <u>Juho Piironen</u> and Toni Laaksonen (2022). **Predicting spatio-temporal distributions of migratory populations using Gaussian process modelling**. _Journal of Applied Ecology_, 00: 1-11. (First two authors contributed equally)
   [Online](https://doi.org/10.1111/1365-2664.14127)
   [Codes](https://github.com/jpiironen/anser_fabalis)
@@ -51,13 +55,6 @@ Citations to my work can be found via Google Scholar [here](https://scholar.goog
   * <u>Juho Piironen</u> and Aki Vehtari (2016). **Projection predictive model selection for Gaussian processes**. In _Proceedings of the 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_.
   [Online](http://ieeexplore.ieee.org/abstract/document/7738829/)
   [Free preprint](http://arxiv.org/abs/1510.04813)
-
-
-
-## Submitted articles
-
-  * Federico Pavone, <u>Juho Piironen</u>, Paul-Christian Bürkner, and Aki Vehtari (2020). **Using reference models in variable selection**.
-  [Preprint](https://arxiv.org/abs/2004.13118)
 
 
 
