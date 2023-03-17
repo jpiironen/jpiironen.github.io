@@ -13,7 +13,7 @@ The following is a list of software packages where I have a major contribution (
 
   <tr style="border: none;">
   <td style="border: none; width:70%">
-  <b> seqnn</b> Codebase for different types of neural network models for sequential data. 
+  <b> seqnn</b> Codebase for different types of neural network models for sequential data. Work in progress and under active development. 
   <a href="https://github.com/jpiironen/seqnn"> Codes </a>
   
   </td>
