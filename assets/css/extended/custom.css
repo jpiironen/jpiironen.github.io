@@ -1,0 +1,17 @@
+.item-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.item-details {
+}
+
+.item-image {
+}
+
+.item-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

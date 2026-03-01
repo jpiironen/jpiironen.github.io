@@ -1,0 +1,13 @@
+<div class="item-container" {{ if eq (.Get "order") "image-first" }}style="flex-direction: row-reverse;"{{ end }}>
+  <div class="item-details" style="flex: {{ .Get "text_flex" | default "3" }}; {{ if eq (.Get "order") "image-first" }}padding-left: 2rem;{{ else }}padding-right: 2rem;{{ end }}">
+    {{ .Inner | markdownify }}
+  </div>
+  {{ if .Get "src" }}
+  <div class="item-image" style="flex: {{ .Get "image_flex" | default "1" }};">
+    <img src="{{ .Get "src" | absURL }}" alt="Item image" 
+      {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+      {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+    >
+  </div>
+  {{ end }}
+</div>

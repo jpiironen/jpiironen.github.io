@@ -1,0 +1,39 @@
+baseURL = 'https://jpiironen.github.io'
+languageCode = 'en-us'
+title = 'Juho Piironen'
+theme = 'PaperMod'
+
+[params]
+  author = "Juho Piironen"
+
+[params.homeInfoParams]
+  # this has no effect except that we need to have some field here in order for the icons to apper
+  socialIcons = true
+  
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:juho.t.piironen@gmail.com"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/jpiironen"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/juho-piironen-84a70018"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/JuhoPiironen"
+
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 10
+
+[[menu.main]]
+  name = "Software"
+  url = "/software/"
+  weight = 20
