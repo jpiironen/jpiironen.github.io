@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Juho Piironen</title><link>https://jpiironen.github.io/</link><description>Recent content on Juho Piironen</description><generator>Hugo -- 0.157.0</generator><language>en-us</language><atom:link href="https://jpiironen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://jpiironen.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jpiironen.github.io/publications/</guid><description>&lt;p&gt;Citations to my work can be found via &lt;a href="https://scholar.google.fi/citations?user=7oGbL64AAAAJ&amp;amp;hl=fi"&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="peer-reviewed-articles"&gt;Peer-reviewed articles&lt;/h2&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+Federico Pavone, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Paul-Christian Bürkner and Aki Vehtari (2022). &lt;strong&gt;Using reference models in variable selection&lt;/strong&gt;. &lt;em&gt;Computational Statistics&lt;/em&gt;.
+&lt;a href="https://doi.org/10.1007/s00180-022-01231-6"&gt;Online&lt;/a&gt;
+&lt;a href="https://arxiv.org/abs/2004.13118"&gt;Preprint&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1.3;"&gt;
+&lt;img src="https://jpiironen.github.io/material/refmodel_varsel/rmse.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+Antti Piironen, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Toni Laaksonen (2022). &lt;strong&gt;Predicting spatio-temporal distributions of migratory populations using Gaussian process modelling&lt;/strong&gt;. &lt;em&gt;Journal of Applied Ecology&lt;/em&gt;, 00: 1-11. (First two authors contributed equally)
+&lt;a href="https://doi.org/10.1111/1365-2664.14127"&gt;Online&lt;/a&gt;
+&lt;a href="https://github.com/jpiironen/anser_fabalis"&gt;Codes&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 0.6;"&gt;
+&lt;img src="https://jpiironen.github.io/material/anser_fabalis/autumn.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+Topi Paananen, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Paul Bürkner and Aki Vehtari (2020). &lt;strong&gt;Implicitly Adaptive Importance Sampling&lt;/strong&gt;. &lt;em&gt;Statistics and Computing&lt;/em&gt;, 31:16.
+&lt;a href="https://doi.org/10.1007/s11222-020-09982-2"&gt;Online&lt;/a&gt;
+&lt;a href="https://arxiv.org/abs/1906.08850"&gt;Preprint&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/IAIS/gaussian_outlier.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+Homayun Afrabandpey, Tomi Peltola, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Aki Vehtari, and Samuel Kaski (2020). &lt;strong&gt;A Decision-Theoretic Approach for Model Interpretability in Bayesian Framework.&lt;/strong&gt; &lt;em&gt;Machine Learning&lt;/em&gt;, 109:1855-1876. Special Issue of the ECML PKDD 2020 Journal Track.
+&lt;a href="https://doi.org/10.1007/s10994-020-05901-8"&gt;Online&lt;/a&gt;
+&lt;a href="https://arxiv.org/abs/1910.09358"&gt;Preprint&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/bayes_interpretability/example.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Markus Paasiniemi and Aki Vehtari (2020). &lt;strong&gt;Projective Inference in High-dimensional Problems: Prediction and Feature Selection&lt;/strong&gt;. &lt;em&gt;Electronic Journal of Statistics&lt;/em&gt;, 14(1): 2155-2197.
+&lt;a href="https://projecteuclid.org/euclid.ejs/1589335310"&gt;Online&lt;/a&gt;
+&lt;a href="https://cran.r-project.org/web/packages/projpred/index.html"&gt;Code&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/projpred/corr.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+Topi Paananen, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Michael Riis Andersen and Aki Vehtari (2019). &lt;strong&gt;Variable selection for Gaussian processes via sensitivity analysis of the posterior predictive distribution.&lt;/strong&gt; In &lt;em&gt;Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;, PMLR 89: 1743-1752.
+&lt;a href="http://proceedings.mlr.press/v89/paananen19a.html"&gt;Online&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1.3;"&gt;
+&lt;img src="https://jpiironen.github.io/material/gp_varsel/inputrel.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+Simon Holmbacka, Jarno Niemelä, Henri Karikallio, Karri Sunila, Ilkka Raiskinen, Eero Siivola, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Tuomas Sivula (2018). &lt;strong&gt;Alarm Prediction in LTE Networks&lt;/strong&gt;. In &lt;em&gt;Proceedings of the 2018 IEEE 25th International Conference on Telecommunications (ICT)&lt;/em&gt;.
+&lt;a href="https://ieeexplore.ieee.org/document/8464882"&gt;Online&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2018). &lt;strong&gt;Iterative Supervised Principal Components&lt;/strong&gt;. In
+&lt;em&gt;Proceedings of the 21st International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;, PMLR 84: 106-114.
+&lt;a href="http://proceedings.mlr.press/v84/piironen18a.html"&gt;Online&lt;/a&gt;
+&lt;a href="https://jpiironen.github.io/material/ispca/poster.pdf"&gt;Poster&lt;/a&gt;
+&lt;a href="https://github.com/jpiironen/dimreduce"&gt;Code&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1.2;"&gt;
+&lt;img src="https://jpiironen.github.io/material/ispca/lung5c_ispca.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2017). &lt;strong&gt;Sparsity information and regularization in the horseshoe and other shrinkage priors&lt;/strong&gt;. &lt;em&gt;Electronic Journal of Statistics&lt;/em&gt;, 11(2): 5018-5051.
+&lt;a href="https://projecteuclid.org/euclid.ejs/1513306866"&gt;Online&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1.2;"&gt;
+&lt;img src="https://jpiironen.github.io/material/hsprior/u-shape2.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2017). &lt;strong&gt;On the Hyperprior Choice for the Global Shrinkage Parameter in the Horseshoe Prior&lt;/strong&gt;. In &lt;em&gt;Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS)&lt;/em&gt;, PMLR 54: 905-913.
+&lt;a href="http://proceedings.mlr.press/v54/piironen17a.html"&gt;Online&lt;/a&gt;
+&lt;a href="https://jpiironen.github.io/material/hsprior/talk.pdf"&gt;Talk&lt;/a&gt;
+&lt;a href="https://jpiironen.github.io/material/hsprior/poster.pdf"&gt;Poster&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/hsprior/u-shape.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2017). &lt;strong&gt;Comparison of Bayesian predictive methods for model selection&lt;/strong&gt;. &lt;em&gt;Statistics and Computing&lt;/em&gt;, 27(3): 711-735.
+&lt;a href="http://link.springer.com/article/10.1007/s11222-016-9649-y"&gt;Online&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/modelsel/biasvar_tradeoff.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2016). &lt;strong&gt;Projection predictive model selection for Gaussian processes&lt;/strong&gt;. In &lt;em&gt;Proceedings of the 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)&lt;/em&gt;.
+&lt;a href="http://ieeexplore.ieee.org/abstract/document/7738829/"&gt;Online&lt;/a&gt;
+&lt;a href="http://arxiv.org/abs/1510.04813"&gt;Preprint&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/gpproj/proj_vs_ard.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="technical-reports-and-other-scientific-articles"&gt;Technical reports and other scientific articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Donald R. Williams, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Aki Vehtari and Philippe Rast (2018). &lt;strong&gt;Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection&lt;/strong&gt;.
+&lt;a href="https://arxiv.org/abs/1801.05725"&gt;Online&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Software</title><link>https://jpiironen.github.io/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jpiironen.github.io/software/</guid><description>&lt;p&gt;The following is a list of open source software packages where I have a major contribution (either I&amp;rsquo;m a sole author or one of the main contributors).&lt;/p&gt;
+&lt;h2 id="python"&gt;Python:&lt;/h2&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;strong&gt;seqnn&lt;/strong&gt; Codebase for different types of neural network models for sequential data. Work in progress and under active development.
+&lt;a href="https://github.com/jpiironen/seqnn"&gt;Codes&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/seqnn/gym/CartPole-v1/episode0.gif" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="r-packages"&gt;R-packages:&lt;/h2&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;strong&gt;gplite&lt;/strong&gt; General purpose Gaussian process modeling.
+&lt;a href="https://github.com/jpiironen/gplite"&gt;Codes&lt;/a&gt;
+&lt;a href="https://jpiironen.github.io/material/gplite/quickstart.html"&gt;Quickstart&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1;"&gt;
+&lt;img src="https://jpiironen.github.io/material/gplite/fitc.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;strong&gt;projpred&lt;/strong&gt; Projective feature selection for generalized linear models, compatible with &lt;em&gt;rstanarm&lt;/em&gt; and &lt;em&gt;brms&lt;/em&gt;.
+&lt;a href="https://github.com/stan-dev/projpred"&gt;Codes&lt;/a&gt;
+&lt;a href="https://htmlpreview.github.io/?https://github.com/stan-dev/projpred/blob/master/vignettes/quickstart.html"&gt;Quickstart&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1.2;"&gt;
+&lt;img src="https://jpiironen.github.io/material/projpred/selection.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="item-container" &gt;
+&lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
+&lt;strong&gt;dimreduce&lt;/strong&gt; Feature screening and supervised dimension reduction methods for high-dimensional data.
+&lt;a href="https://github.com/jpiironen/dimreduce"&gt;Codes&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="item-image" style="flex: 1.2;"&gt;
+&lt;img src="https://jpiironen.github.io/material/ispca/lung5c_ispca.png" alt="Item image"&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
