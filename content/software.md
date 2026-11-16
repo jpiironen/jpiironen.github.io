@@ -10,7 +10,7 @@ The following is a list of open source software packages where I have a major co
 ## Python:
 
 {{< item src="/material/seqnn/gym/CartPole-v1/episode0.gif" >}}
-**seqnn** Codebase for different types of neural network models for sequential data. Work in progress and under active development.
+**seqnn** A simple and educative codebase for prototyping with different types of neural network models for sequential data.
 [Codes](https://github.com/jpiironen/seqnn)
 {{< /item >}}
 
