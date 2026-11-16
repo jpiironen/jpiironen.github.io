@@ -138,7 +138,7 @@ Simon Holmbacka, Jarno Niemelä, Henri Karikallio, Karri Sunila, Ilkka Raiskinen
 &lt;h2 id="python"&gt;Python:&lt;/h2&gt;
 &lt;div class="item-container" &gt;
 &lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
-&lt;strong&gt;seqnn&lt;/strong&gt; A simple and educative codebase for prototyping with different types of neural network models for sequential data.
+&lt;strong&gt;seqnn&lt;/strong&gt; A simple codebase for prototyping with different types of neural network models for sequential data and model predictive control.
 &lt;a href="https://github.com/jpiironen/seqnn"&gt;Codes&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="item-image" style="flex: 1;"&gt;
