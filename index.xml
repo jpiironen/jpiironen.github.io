@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Juho Piironen</title><link>https://jpiironen.github.io/</link><description>Recent content on Juho Piironen</description><generator>Hugo -- 0.157.0</generator><language>en-us</language><atom:link href="https://jpiironen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://jpiironen.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jpiironen.github.io/publications/</guid><description>&lt;p&gt;Citations to my work can be found via &lt;a href="https://scholar.google.fi/citations?user=7oGbL64AAAAJ&amp;amp;hl=fi"&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Juho Piironen</title><link>https://jpiironen.github.io/</link><description>Recent content on Juho Piironen</description><generator>Hugo -- 0.170.0</generator><language>en-us</language><atom:link href="https://jpiironen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://jpiironen.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jpiironen.github.io/publications/</guid><description>&lt;p&gt;Citations to my work can be found via &lt;a href="https://scholar.google.fi/citations?user=7oGbL64AAAAJ&amp;amp;hl=fi"&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="peer-reviewed-articles"&gt;Peer-reviewed articles&lt;/h2&gt;
 &lt;div class="item-container" &gt;
 &lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
@@ -120,11 +120,25 @@ Simon Holmbacka, Jarno Niemelä, Henri Karikallio, Karri Sunila, Ilkka Raiskinen
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Donald R. Williams, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Aki Vehtari and Philippe Rast (2018). &lt;strong&gt;Bayesian Estimation of Gaussian Graphical Models with Projection Predictive Selection&lt;/strong&gt;.
-&lt;a href="https://arxiv.org/abs/1801.05725"&gt;Online&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Software</title><link>https://jpiironen.github.io/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jpiironen.github.io/software/</guid><description>&lt;p&gt;The following is a list of open source software packages where I have a major contribution (either I&amp;rsquo;m a sole author or one of the main contributors).&lt;/p&gt;
+&lt;a href="https://arxiv.org/abs/1801.05725"&gt;Online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt;, Michael Betancourt, Daniel Simpson and Aki Vehtari (2017). Discussion to &lt;strong&gt;Uncertainty Quantification for the Horseshoe&lt;/strong&gt; by Stéphanie van der Pas, Botond Szabó and Aad van der Vaart. &lt;em&gt;Bayesian Analysis&lt;/em&gt;.
+&lt;a href="https://projecteuclid.org/euclid.ba/1504231319"&gt;Online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eero Siivola, &lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2016). &lt;strong&gt;Automatic monotonicity detection for Gaussian Processes&lt;/strong&gt;.
+&lt;a href="http://arxiv.org/abs/1610.05440"&gt;Online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Juho Piironen&lt;!-- raw HTML omitted --&gt; and Aki Vehtari (2015). &lt;strong&gt;Projection predictive variable selection using Stan+R&lt;/strong&gt;.
+&lt;a href="http://arxiv.org/abs/1508.02502"&gt;Online&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Software</title><link>https://jpiironen.github.io/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jpiironen.github.io/software/</guid><description>&lt;p&gt;The following is a list of open source software packages where I have a major contribution (either I&amp;rsquo;m a sole author or one of the main contributors).&lt;/p&gt;
 &lt;h2 id="python"&gt;Python:&lt;/h2&gt;
 &lt;div class="item-container" &gt;
 &lt;div class="item-details" style="flex: 3; padding-right: 2rem;"&gt;
-&lt;strong&gt;seqnn&lt;/strong&gt; Codebase for different types of neural network models for sequential data. Work in progress and under active development.
+&lt;strong&gt;seqnn&lt;/strong&gt; A simple and educative codebase for prototyping with different types of neural network models for sequential data.
 &lt;a href="https://github.com/jpiironen/seqnn"&gt;Codes&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="item-image" style="flex: 1;"&gt;
